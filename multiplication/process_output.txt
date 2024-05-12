@@ -1,0 +1,16 @@
+Matrix Size: 4 x 4, Time taken: 0.000427 seconds
+Matrix Size: 4 x 4, Time taken: 0.000401 seconds
+Matrix Size: 5 x 5, Time taken: 0.000592 seconds
+Matrix Size: 8 x 8, Time taken: 0.000873 seconds
+Matrix Size: 3 x 3, Time taken: 0.000291 seconds
+Matrix Size: 5 x 5, Time taken: 0.000512 seconds
+Matrix Size: 3 x 3, Time taken: 0.000296 seconds
+Matrix Size: 56 x 56, Time taken: 0.006303 seconds
+Matrix Size: 8 x 8, Time taken: 0.000875 seconds
+Matrix Size: 7 x 7, Time taken: 0.001892 seconds
+Matrix Size: 6 x 6, Time taken: 0.002279 seconds
+Matrix Size: 80 x 80, Time taken: 0.023382 seconds
+Matrix Size: 250 x 250, Time taken: 0.067611 seconds
+Matrix Size: 250 x 250, Time taken: 0.063067 seconds
+Matrix Size: 1499 x 1499, Time taken: 0.227401 seconds
+Matrix Size: 250 x 250, Time taken: 0.038696 seconds
