@@ -6,5 +6,13 @@ Type make each time to compile the programs.
 
 To run the program, change directory to the original folder and type ./main in the terminal.
 
+OBJECTIVE: 
+The main objective of our project is to focus on the differences
+between multithreading and multiprocessing. The performance
+comparison will be observed by the implementation of merge sort,
+linear search and matrix multiplication.
+
+
+
 Best Regards,
 Asim aka exit100
